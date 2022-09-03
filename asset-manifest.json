@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AmandaKr/expenses-app/static/css/main.859bcf82.css",
+    "main.js": "/AmandaKr/expenses-app/static/js/main.2eefc8c8.js",
+    "static/js/787.2e8e4b4a.chunk.js": "/AmandaKr/expenses-app/static/js/787.2e8e4b4a.chunk.js",
+    "index.html": "/AmandaKr/expenses-app/index.html",
+    "main.859bcf82.css.map": "/AmandaKr/expenses-app/static/css/main.859bcf82.css.map",
+    "main.2eefc8c8.js.map": "/AmandaKr/expenses-app/static/js/main.2eefc8c8.js.map",
+    "787.2e8e4b4a.chunk.js.map": "/AmandaKr/expenses-app/static/js/787.2e8e4b4a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.859bcf82.css",
+    "static/js/main.2eefc8c8.js"
+  ]
+}
